@@ -36,7 +36,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/kamakshi0421/Stock_Market_Analysis.git
+git clone [(https://github.com/Nishantsingh1308/Stock_market__analysis)]
 cd Stock_Market_Analysis
 Set Up the Environment
 
