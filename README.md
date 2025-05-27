@@ -24,31 +24,31 @@ Data Visualization: Utilize plots and charts to visualize stock performance over
 
 # Machine Learning Models:
 
-Linear Regression: Predict future stock prices based on historical data.
+ - Linear Regression: Predict future stock prices based on historical data.
 
-Support Vector Machine (SVM): Classify stock movements and trends.
+ - Support Vector Machine (SVM): Classify stock movements and trends.
 
-K-Nearest Neighbors (KNN): Predict stock prices by comparing with similar historical data points.
+ - K-Nearest Neighbors (KNN): Predict stock prices by comparing with similar historical data points.
 
-Model Evaluation: Assess model performance using appropriate metrics to ensure reliability.
+ - Model Evaluation: Assess model performance using appropriate metrics to ensure reliability.
 
 # 🧰 Tech Stack
 
-Programming Language: Python
+ - Programming Language: Python
 
-Data Source: Provided Excel dataset (stock_data_excel.xlsx)
+ - Data Source: Provided Excel dataset (stock_data_excel.xlsx)
 
 # Libraries:
 
-pandas for data manipulation
+ - pandas for data manipulation
 
-numpy for numerical computations
+ - numpy for numerical computations
 
-matplotlib and seaborn for data visualization
+ - matplotlib and seaborn for data visualization
 
-scikit-learn for machine learning algorithms
+ - scikit-learn for machine learning algorithms
 
-Environment: Jupyter Notebook
+ - Environment: Jupyter Notebook
 
 # 🚀 Getting Started
 Follow these steps to set up and run the project locally:
@@ -92,29 +92,29 @@ jupyter notebook stock_market_analysis.ipynb
 The notebook compares different machine learning models to determine their effectiveness in predicting stock prices. Evaluation metrics such as Mean Squared Error (MSE) and R-squared (R²) are used to assess model performance.
 
 # ✅ Future Enhancements
-Real-Time Data Integration: Incorporate APIs like Yahoo Finance or Alpha Vantage for live data analysis.
+ - Real-Time Data Integration: Incorporate APIs like Yahoo Finance or Alpha Vantage for live data analysis.
 
-Advanced Modeling: Implement deep learning models such as LSTM for improved prediction accuracy.
+ - Advanced Modeling: Implement deep learning models such as LSTM for improved prediction accuracy.
 
-Web Interface: Develop an interactive dashboard using Streamlit or Flask for user-friendly access.
+ - Web Interface: Develop an interactive dashboard using Streamlit or Flask for user-friendly access.
 
 # 🔢 Machine Learning Models Used
 
-Linear Regression: To model the relationship between stock prices and time.
+ - Linear Regression: To model the relationship between stock prices and time.
 
-Support Vector Machines (SVM): For classification tasks within the dataset.
+ - Support Vector Machines (SVM): For classification tasks within the dataset.
 
-K-Nearest Neighbors (KNN): To predict stock prices based on historical data points.
+ - K-Nearest Neighbors (KNN): To predict stock prices based on historical data points.
 
 # 📂 Project Highlights
 
-Comprehensive data cleaning and preprocessing steps.
+ - Comprehensive data cleaning and preprocessing steps.
 
-Visualization of stock trends and patterns.
+ - Visualization of stock trends and patterns.
 
-Implementation of multiple machine learning models for predictive analysis.
+ - Implementation of multiple machine learning models for predictive analysis.
 
-Evaluation of model performance using appropriate metrics.
+ - Evaluation of model performance using appropriate metrics.
 
 # 📊 Conclusion
 
