@@ -10,7 +10,7 @@ Investors often face challenges in interpreting vast amounts of stock market dat
 
 By leveraging data analytics and machine learning, the project processes historical stock data to extract meaningful insights. Techniques such as data visualization, statistical analysis, and predictive modeling are employed to understand market behaviors.
 
-#📁 Project Structure
+# 📁 Project Structure
 bash
 Copy
 Edit
