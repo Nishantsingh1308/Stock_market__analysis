@@ -18,9 +18,9 @@ Edit
 ├── stock_market_analysis.ipynb       # Jupyter Notebook with full analysis
 ├── README.md                         # Project overview and setup instructions
 🔧 Features
-Exploratory Data Analysis (EDA): Understand the underlying patterns and trends in stock data.
+ - Exploratory Data Analysis (EDA): Understand the underlying patterns and trends in stock data.
 
-Data Visualization: Utilize plots and charts to visualize stock performance over time.
+ - Data Visualization: Utilize plots and charts to visualize stock performance over time.
 
 # Machine Learning Models:
 
@@ -59,6 +59,7 @@ Copy
 Edit
 git clone https://github.com/Nishantsingh1308/Stock_market__analysis.git
 cd Stock_market__analysis
+
 2️⃣ Set Up a Virtual Environment (Optional but Recommended)
 bash
 Copy
@@ -68,7 +69,8 @@ python -m venv venv
 # On Windows:
 venv\Scripts\activate
 # On macOS/Linux:
-source venv/bin/activate
+source venv/bin/activate 
+
 3️⃣ Install Required Packages
 If a requirements.txt file is present:
 
@@ -82,6 +84,7 @@ bash
 Copy
 Edit
 pip install pandas numpy matplotlib seaborn scikit-learn
+
 4️⃣ Launch the Jupyter Notebook
 bash
 Copy
