@@ -1,4 +1,6 @@
-🔍 Stock Market Analysis Using Machine Learning & Power BI
+**🔍 Stock Market Analysis Using Machine Learning & Power BI**
+
+
 This project implements a comprehensive data-driven approach to analyze historical stock market data, uncover trends, and enhance investment strategies. It combines powerful machine learning models, data visualization using Plotly, and a Power BI dashboard for storytelling and interactive exploration.
 
 📈 Problem Statement
